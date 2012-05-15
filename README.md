@@ -3,10 +3,10 @@
 This project provides a ready-to-use user interface component for iPhone developers to easily incorporate AGE functionalities to their apps. The library adds a non-intrusive "tab" to your application's main window. The user can swipe open and close the tab to see suggestions to invite friends, and invite their friends right from within the application. The tab rotates with your application to support both portrait and landscape modes.
 
 <center>
-<img src="https://github.com/hookmobile/App-Growth-Engine-TabUI/blob/master/screen1.png" width="160"/>&nbsp;
-<img src="https://github.com/hookmobile/App-Growth-Engine-TabUI/blob/master/screen2.png" width="240"/>&nbsp;
-<img src="https://github.com/hookmobile/App-Growth-Engine-TabUI/blob/master/screen3.png" width="160"/>&nbsp;
-<img src="https://github.com/hookmobile/App-Growth-Engine-TabUI/blob/master/screen4.png" width="160"/>
+<img src="https://github.com/hookmobile/App-Growth-Engine-TabUI/raw/master/screen1.png" width="160"/>&nbsp;
+<img src="https://github.com/hookmobile/App-Growth-Engine-TabUI/raw/master/screen2.png" width="240"/>&nbsp;
+<img src="https://github.com/hookmobile/App-Growth-Engine-TabUI/raw/master/screen3.png" width="160"/>&nbsp;
+<img src="https://github.com/hookmobile/App-Growth-Engine-TabUI/raw/master/screen4.png" width="160"/>
 </center>
 
 The library only takes minutes to setup, and two lines of code to integrate into your project. Try it today!
